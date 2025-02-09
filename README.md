@@ -7,7 +7,6 @@
 [![Huggingface Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-xl-dark.svg)](https://huggingface.co/sayedM)
 
 - 📧 Email: sayedmohamedscu@gmail.com
-- 📞 Phone: +201020284853
 - 📍 Location:  Egypt
 - 🎓 Education: BSc. Electronics & Comm. Engineering – July 2021
 - 🎖️ Military Status: Completed
