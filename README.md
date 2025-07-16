@@ -9,7 +9,6 @@
 - 📧 Email: sayedmohamedscu@gmail.com
 - 📍 Location:  Egypt
 - 🎓 Education: BSc. Electronics & Comm. Engineering – July 2021
-- 🎖️ Military Status: Completed
 
 
 With 5+ years of experience in various startupsand as a freelancer, interacting with a diverse set of problems. I've worked with software & hardware from building apps, designing drones , UGV or developing machine learning applications, alongside experimenting with many ideas and trying to fulfill my curiosity by learning everything I can put my hands on.
