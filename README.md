@@ -1,141 +1,135 @@
-### Hi there 👋
+# Hi there, I'm Elsayed Mohamed 👋
 
+## Senior AI Engineer | Computer Vision Specialist | Medical AI Expert
 
-# I'm Elsayed Mohamed a Machine learning engineer specializing in computer vision 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsayed-mohamed-603509142/)](https://www.linkedin.com/in/elsayed-mohamed-603509142/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-mohamed-603509142/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elsayed_mohamed)
+[![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=for-the-badge&logoColor=white)](https://huggingface.co/sayedM)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedmohamedscu@gmail.com)
 
-[![Huggingface Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-xl-dark.svg)](https://huggingface.co/sayedM)
+---
 
-- 📧 Email: sayedmohamedscu@gmail.com
-- 📍 Location:  Egypt
-- 🎓 Education: BSc. Electronics & Comm. Engineering – July 2021
+### 🚀 About Me
 
+I'm a **Senior AI Engineer** with 5+ years of experience delivering end-to-end machine learning solutions across **medical imaging**, **computer vision**, **natural language processing**, and **cloud-based AI platforms**. Currently working at **PaxeraHealth** (Boston, MA), specializing in advanced medical AI solutions.
 
-With 5+ years of experience in various startupsand as a freelancer, interacting with a diverse set of problems. I've worked with software & hardware from building apps, designing drones , UGV or developing machine learning applications, alongside experimenting with many ideas and trying to fulfill my curiosity by learning everything I can put my hands on.
+- 🎓 **BSc. Electronics & Communications Engineering** (July 2021)
+- 📍 **Location**: Cairo, Egypt
+- 🏥 **Specialization**: Medical AI, 3D Segmentation, Computer Vision
+- 🔬 **Research Focus**: WiFi Sensing, Deep Learning, Applied AI
 
-My focus is developing deep/high tech and building Machine learning solutions with real value to business .
+### 💼 Current Role
 
-I have participated in building and enhancing multiple solutions and ideas 
+**Senior AI Engineer at PaxeraHealth** *(Nov 2023 - Present)*
+- Architecting fast 3D tumor segmentation solutions (kidney, tumor, pancreas, colon)
+- Developing Vision Language Models (VLM) pipelines for EraBot
+- Fine-tuning SOTA vision transformers for medical imaging (X-ray, OCT)
+- Building end-to-end deployment pipelines on GCP and AWS
 
-I have worked with multiple startups
+### 🔬 Research & Innovation
 
-## Work Experience
-
-### Computer Vision Engineer at PaxeraHealth (11/2023 – Present)
-
-Custom 2D / 3D solutions for tumor segmentation / NLP solutions
-
-### Computer Vision Engineer at Devisionx 
-
-Tuba Auto AI-Vision Platform
-
-### Computer Vision Engineer at PassApp (06/2022 – 01/2023)
-
-Smart and secure access control solutions 
-[License plate recognition , Face matching , National ID reader and deployment ]
-
-### Computer Vision Engineer at Devisionx (07/2020 – 11/2020)
-
-Participated in the early version of Tuba Auto AI-Vision Platform
-
-### Machine Learning Engineer / Intern at Digified (07/2019 – 11/2019)
-
-AI-Powered e-KYC Platform 
-
-### Computer Vision Freelancer
-
-- Drone and object detection using YOLO for DroneBase startup
-- Worked on multiple projects in image classification, segmentation, object detection, and recognition
-- Completed various industrial and medical machine vision projects
-
-### Research assistant
-
-R&D WiFi sensing and Deep learning solutions under supervision of DR / Twfik Ismail , Cairo University 
-
-
-## Research Paper (not published yet)
-
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19ybpBiJmnzYncetyZTorKcRHrvpNDjZr/view)
+**🏆 Blaze-Wi Research Project** - WiFi Sensing & Deep Learning
+[![Research Paper](https://img.shields.io/badge/Research%20Paper-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19ybpBiJmnzYncetyZTorKcRHrvpNDjZr/view)
 
 - Constructed Wi-Fi sensing-based applications using deep learning
-- Developed intrusion detection, gait recognition, and indoor localization systems
-- Built the Blaze_Wi network, inspired by Google's Blaze Face network
+- Achieved 99.3% accuracy in gait recognition on Widar 3.0 dataset
+- Developed intrusion detection and indoor localization systems
+- Built the Blaze_Wi network, inspired by Google's BlazeFace
 
+### 🛠️ Technical Expertise
 
-## Business Domains of Experience 
+#### **AI/ML Frameworks & Tools**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 
-- FinTech 
-- Telecom
-- Industry 4.0 
-- Digital Transformation 
-- Robotics & Avionics 
+#### **GenAI & LLM Stack**
+- **Serving**: VLLM, SGLang
+- **Fine-tuning**: LLaMA-Factory, Unsloth, Hugging Face
+- **Vector DBs**: FAISS, Chroma, Pinecone
+- **Agents**: CrewAI, LangChain, LlamaIndex, MCP
 
+#### **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
 
-## Technical Fields of Interest
+#### **Medical AI Specialization**
+- **3D Processing**: VTK, ITK, Monai, Open3D
+- **Medical Data**: DICOM, NIfTI
+- **Segmentation**: SAM, SAM2, Custom 3D Models
+- **Vision-Language Models**: PaliGemma, LLAVA, Florence-2, CXR-GPT
 
-- Machine & Deep Learning 
-- MLOPS 
-- Software engineering
-- Scientific Programming & Simulations 
-- Digital Signal Processing 
-- Control Engineering 
-- Robotics (Drones and UGV)
+### 💡 Key Achievements
 
+- 🏥 **Medical AI**: Built SOTA 3D tumor segmentation with 1.2-2 sec inference time
+- 🤖 **AutoML**: Developed Tuba AutoML platform for computer vision
+- 🚗 **Smart Access**: Created comprehensive license plate recognition systems
+- 📱 **Mobile AI**: Deployed ML solutions on iOS and Flutter applications
+- 🔊 **Real-time AI**: Fine-tuned Whisper for real-time speech-to-text via WebSocket
 
-## Research Interests 
+### 🏢 Industry Experience
 
-- Applied Artificial Intelligence
-- Mathematical Modeling
-- Control Theory
-- WiFi sensing
-- Communication theory and AI
+| Company | Role | Duration | Focus |
+|---------|------|----------|-------|
+| **PaxeraHealth** | Senior AI Engineer | Nov 2023 - Present | Medical AI, 3D Segmentation, LLM/VLM |
+| **Devisionx** | Senior CV Engineer | Mar 2023 - Oct 2024 | AutoML, Vision Transformers, Team Leadership |
+| **Pxivision** | Co-founder/ML Engineer | Jul 2021 - Dec 2024 | Custom CV Solutions, Smart Access Control |
+| **PassApp** | Computer Vision Engineer | Jun 2022 - Jan 2023 | Access Control, OCR, Mobile Deployment |
+| **Digified** | ML Engineer | Jul 2019 - Nov 2019 | FinTech, Arabic OCR, Document Processing |
 
+### 🌐 Business Domains
 
+- **Healthcare & Medical Imaging** 🏥
+- **FinTech & Digital Identity** 💳
+- **Industry 4.0 & Automation** 🏭
+- **Robotics & Avionics** 🤖
+- **Smart Access Control** 🔐
 
-## Technical Skills
+### 📚 Latest Articles on Medium
 
-- General Purpose Languages: Python,C#, C, C++, Dart, Swift
-- Machine & Deep Learning: PyTorch, Keras, TensorFlow, ONNX
-- Data Manipulation & Analysis: Numpy, Pandas, Scipy, Facebook HiPlot
-- Computer Vision/Image Processing: OpenCV, Tesseract, PIL, MATLAB
-- 3D : VTK /ITK 
-- API Deployment: FastAPI, Flask, Docker
-- Domain-Specific/4th Generation Languages: MATLAB, Simulink, LabVIEW
-- Mobile Development: Flutter, iOS Development
+[![Medium](https://img.shields.io/badge/Read%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elsayed_mohamed)
 
-## Other Tools & Skills
+**Featured Technical Articles:**
 
-- Digital Signal Processing, Medical imaging ,Applied Mathematics, Computer Architecture, Circuit Design
-- Cloud: AWS (EC2, ECS,BedRock aws, Rekognition) Azure  / GCP
-- Microcontroller Experience: PIC16F, PIC18F, Atmega328/32/16, Arduino
-- Digital Fabrication: 3D Printers (RepRap), Laser Cutters
-- Others: Proteus, EagleCAD, Android Studio, Xcode
-- Wi-Fi Sensing: Intel 5300, Atheros, Channel State Information, Received Signal Strength
+🏥 **[Fine-Tuning MedGemma 4B on Free Colab](https://medium.com/@elsayed_mohamed)** *(Jul 5, 2025)*
+- Comprehensive guide to fine-tuning Google's MedGemma 4B vision model for medical AI applications
 
+🎯 **[Florence-2 VLM Fine-tuning on Custom Dataset](https://medium.com/@elsayed_mohamed)** *(Sep 14, 2024)*
+- Step-by-step tutorial for fine-tuning Microsoft's Florence-2 Vision-Language Model on Google Colab
 
+🔬 **[Finetune PaliGemma Vision Language Model on Google Colab](https://medium.com/@elsayed_mohamed)** *(Sep 9, 2024)*
+- Complete guide to fine-tuning Google's PaliGemma VLM for custom vision-language tasks
 
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/elsayed-mohamed-elsayed
-[github-shield]: https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/your-github-username
+📄 **[Paper Review: Vision Transformers Need Registers](https://medium.com/@elsayed_mohamed)** *(Oct 4, 2023)*
+- In-depth analysis of Meta & Inria's groundbreaking paper on Vision Transformer artifacts
 
+🚪 **[Training YOLOv8 On Your Own Dataset: Door Detection for the Visually Impaired](https://medium.com/@elsayed_mohamed)** *(Dec 16, 2024)*
+- Practical tutorial building accessible AI solutions using YOLOv8 for social impact
 
+### 💼 Professional Portfolio
 
+> **Note**: Most of my work involves proprietary software and is not publicly available due to the nature of enterprise and medical AI projects. My public repositories showcase selected personal projects and research experiments, while my primary contributions are in private industry codebases at companies like PaxeraHealth, Devisionx, and previous startups.
 
+**Key Professional Projects** (Private/Proprietary):
+- 🏥 **Medical 3D Segmentation Systems** - Production-ready tumor segmentation 2D & 3D  APIs
+- 🤖 **EraBot VLM/LLM  Pipeline** - Complete vision-language model architecture and full chatbot to assit radiologists 
+- 🚗 **Smart Access Control Systems** - End-to-end license plate/ID/Face recognition
+- 🔧 **Tuba AutoML Platform** - Enterprise computer vision automation
 
+### 🤝 Let's Connect!
 
+I'm always interested in collaborating on innovative AI projects, especially in:
+- **Medical AI and Computer Vision**
+- **Applied Machine Learning**
+- **AutoML and MLOps**
+- **Arabic /MultiLingual NLP and OCR**
+- **WiFi Sensing Applications**
 
-<!--
-**sayedmohamed98/sayedmohamed98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out for collaborations, consultations, or just to discuss the latest in AI!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Building intelligent systems that scale and deliver real business value"*
