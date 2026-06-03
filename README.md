@@ -25,7 +25,7 @@ I'm a **Senior AI Engineer** with **5+ years of experience** delivering end-to-e
 
 Currently, I am driving innovation at **PaxeraHealth** (Boston, MA/Remote), specializing in **Medical Generative AI**, **3D Segmentation**, and **Vision-Language Models**.
 
-- 🎓 **BSc. Electronics & Communications Engineering** (Cairo University, 2021)
+- 🎓 **BSc. Electronics & Communications Engineering** (2021)
 - 📍 **Location**: Cairo, Egypt
 - 🏥 **Specialization**: Medical AI, 3D Tumor Segmentation, RAG & VLMs
 - 🔬 **Research Focus**: WiFi Sensing (CSI), Deep Learning, Edge AI
