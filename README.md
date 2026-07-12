@@ -26,7 +26,7 @@ I'm an **AI Technical Lead** with **5+ years of experience** building and leadin
 
 I focus on the full lifecycle — from problem definition and architecture, through model selection and on-premise deployment — turning ambiguous problems into reliable, cost-efficient AI platforms that reach real users.
 
-- 🧭 **Currently**: Leading a small engineering team on strategic AI programs at the **Abu Dhabi Executive Office (ADEO)**
+- 🧭 **Currently**: Leading strategic AI programs at the **Abu Dhabi Executive Office (ADEO)**
 - 🏥 **Previously**: Led the AI team at **PaxeraHealth**, owning the technical direction of medical GenAI and computer-vision products
 - 🎓 **BSc. Electronics & Communications Engineering** (2021)
 - 📍 **Location**: Abu Dhabi, UAE
@@ -39,7 +39,7 @@ I focus on the full lifecycle — from problem definition and architecture, thro
 
 | Company | Role | Duration | Focus |
 |---------|------|----------|-------|
-| **Abu Dhabi Executive Office (ADEO)** | **Senior AI Engineer / AI Technical Lead** | Mar 2026 - Present | GenAI Platforms, Voice AI, Computer Vision, AI Governance & Enablement |
+| **Abu Dhabi Executive Office (ADEO)** | **Senior AI Engineer** | Mar 2026 - Present | GenAI Platforms, Voice AI, Computer Vision, AI Governance & Enablement |
 | **PaxeraHealth** | **AI Team Lead** | Nov 2023 - Feb 2026 | Medical GenAI, 3D Segmentation, RAG & VLMs, MLOps, On-Prem AI Infra |
 | **DevisionX** | **Senior CV Engineer** | Mar 2023 - Oct 2024 | AutoML Pipelines, SAM Integration, Vision Transformers |
 | **PassApp** | **Computer Vision Engineer** | Jun 2022 - Feb 2023 | Face Matching, LPR, Mobile Edge Deployment |
