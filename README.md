@@ -30,7 +30,7 @@ I focus on the full lifecycle — from problem definition and architecture, thro
 - 🏥 **Previously**: Led the AI team at **PaxeraHealth**, owning the technical direction of medical GenAI and computer-vision products
 - 🎓 **BSc. Electronics & Communications Engineering** (2021)
 - 📍 **Location**: Abu Dhabi, UAE
-- 🔧 **Focus**: AI Platforms & Infrastructure, VLMs, 3D Medical Segmentation, RAG, Voice AI, Model Evaluation
+- 🔧 **Focus**: AI Platforms & Infrastructure, Agentic Systems, VLMs, 3D Medical Segmentation, RAG & GraphRAG, Voice AI
 - 🔬 **Research**: WiFi Sensing (CSI), Deep Learning, Edge AI
 
 ---
@@ -62,8 +62,8 @@ I focus on the full lifecycle — from problem definition and architecture, thro
 - **Serving & Inference**: vLLM, SGLang, llama.cpp, Ollama
 - **Fine-tuning**: LLaMA-Factory, Unsloth, PEFT/LoRA
 - **Audio / ASR**: Whisper, Parakeet, speech-to-speech pipelines
-- **Vector DBs**: FAISS, Chroma, Pinecone
-- **Agents & RAG**: CrewAI, LangChain, LlamaIndex
+- **Vector & Graph DBs**: FAISS, Chroma, Pinecone; Neo4j (knowledge graphs, GraphRAG)
+- **Agents & RAG**: Agent harnessing (routing, tool-calling, guardrails, multi-agent orchestration); CrewAI, LangChain, LlamaIndex; RAG & GraphRAG
 
 #### **Computer Vision**
 ![YOLO](https://img.shields.io/badge/YOLO%20v3--v11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
