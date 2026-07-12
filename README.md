@@ -2,7 +2,7 @@
 
 # Hi there, I'm Elsayed Mohamed 👋
 
-## AI Technical Lead | GenAI & LLMs | Computer Vision | Medical & Multimodal AI
+## Senior AI Engineer | GenAI & LLMs | Computer Vision | Medical & Multimodal AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-mohamed-603509142/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elsayed_mohamed)
@@ -22,15 +22,15 @@
 
 ### 🚀 About Me
 
-I'm an **AI Technical Lead** with **5+ years of experience** building and leading **production AI systems** across **medical imaging**, **computer vision**, **generative AI**, and **multimodal applications**.
+I'm a **Senior AI Engineer** with **6+ years of experience** building **production AI systems** across **medical imaging**, **computer vision**, **generative AI**, and **multimodal applications**.
 
 I focus on the full lifecycle — from problem definition and architecture, through model selection and on-premise deployment — turning ambiguous problems into reliable, cost-efficient AI platforms that reach real users.
 
-- 🧭 **Currently**: Leading strategic AI programs at the **Abu Dhabi Executive Office (ADEO)**
+- 🧭 **Currently**: **Senior AI Engineer** at the **Abu Dhabi Executive Office (ADEO)**, delivering strategic AI programs end-to-end
 - 🏥 **Previously**: Led the AI team at **PaxeraHealth**, owning the technical direction of medical GenAI and computer-vision products
 - 🎓 **BSc. Electronics & Communications Engineering** (2021)
 - 📍 **Location**: Abu Dhabi, UAE
-- 🔧 **Focus**: AI Platforms & Infrastructure, VLMs, 3D Medical Segmentation, RAG, Voice AI, AI Governance
+- 🔧 **Focus**: AI Platforms & Infrastructure, VLMs, 3D Medical Segmentation, RAG, Voice AI, Model Evaluation
 - 🔬 **Research**: WiFi Sensing (CSI), Deep Learning, Edge AI
 
 ---
@@ -39,7 +39,7 @@ I focus on the full lifecycle — from problem definition and architecture, thro
 
 | Company | Role | Duration | Focus |
 |---------|------|----------|-------|
-| **Abu Dhabi Executive Office (ADEO)** | **Senior AI Engineer** | Mar 2026 - Present | GenAI Platforms, Voice AI, Computer Vision, AI Governance & Enablement |
+| **Abu Dhabi Executive Office (ADEO)** | **Senior AI Engineer** | Mar 2026 - Present | GenAI Platforms, Voice AI, Computer Vision, AI Enablement |
 | **PaxeraHealth** | **AI Team Lead** | Nov 2023 - Feb 2026 | Medical GenAI, 3D Segmentation, RAG & VLMs, MLOps, On-Prem AI Infra |
 | **DevisionX** | **Senior CV Engineer** | Mar 2023 - Oct 2024 | AutoML Pipelines, SAM Integration, Vision Transformers |
 | **PassApp** | **Computer Vision Engineer** | Jun 2022 - Feb 2023 | Face Matching, LPR, Mobile Edge Deployment |
@@ -122,7 +122,7 @@ I write about advanced AI implementation on Medium.
 
 **Selected Work (high-level):**
 * **AI Recruitment Platform:** End-to-end hiring pipeline — from CV ingestion to AI-assisted video-interview analysis and evidence-based candidate comparison.
-* **Voice-to-Voice Screening Agent:** Near-real-time interview agent with a routed multi-agent design and guardrails, built on self-hosted LLMs.
+* **Voice-to-Voice Screening Agent:** Near-real-time interview agent with a routed multi-agent design and guardrails, built on self-hosted LLMs served on H200 GPUs.
 * **Medical 3D Segmentation:** Production APIs for multi-organ and tumor segmentation with optimized low-latency inference.
 * **EraBot:** Agentic RAG + VLM assistant for clinical/radiology workflows.
 * **AutoML Vision Platform:** Automated computer-vision model training and annotation tooling.
